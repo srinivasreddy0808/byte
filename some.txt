@@ -1,4 +1,6 @@
 welcome  to the programming
 java javascript
 nodejs
+c++
+sql
 thankyou
